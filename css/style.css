@@ -1,0 +1,96 @@
+#map
+{
+    border: 1px solid black;
+}
+#content
+{
+    margin: auto;
+    display: inline-block;
+    float: left;
+}
+label {
+    width: 290px;
+    display: block;
+    float: left;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+input {
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+#barreNavigation
+{
+    display: inline-block;
+    float: right;
+}
+#connexion, #cv_etude, #cv_diplome, #cv_travail, #cv_stage, #divDeconnexion
+{
+    border: 5px solid red;
+    margin-top: 5px;
+    display: block;
+    width : 500px;
+}
+#divDeconnexion
+{
+    float: right;
+    display:inline-block;
+    border: blue;
+}
+.miseEnFormeEtude
+{
+    display: inline-block;
+    margin-right: 50px;
+    width: 600px;
+    margin-top: 50px;
+    vertical-align: top;
+}
+.miseEnFormeEtudeDate
+{
+    display: inline-block;
+    margin-right: 50px;
+    width : 150px;
+    margin-top: 50px;
+    vertical-align: top;
+}
+.dateDebut
+{
+    margin-top: 48px;
+    border-bottom: 1px solid red;
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+.dateFin
+{
+    border-bottom: 1px solid red;
+    float: right;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+h3
+{
+    text-align: center;
+}
+.content_etude
+{
+    border-bottom: 1px solid blue;
+}
+noscript
+{
+    width: 950px;
+    min-height: 300px;
+}
+.diplome{
+    border-bottom: 1px solid blue;
+    width: 500px;
+}
+body
+{
+    padding: 0;
+    margin: 0;
+}
